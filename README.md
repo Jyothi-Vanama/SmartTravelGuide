@@ -1,4 +1,4 @@
-#🌐 Smart Travel Guide 🧳
+# 🌐 Smart Travel Guide 🧳
 
 Smart Travel Guide is a user-friendly web application developed as part of our mini-project. It helps travelers discover the culture, cuisine, and tourist beauty of **Andhra Pradesh** in an organized and interactive way.
 
