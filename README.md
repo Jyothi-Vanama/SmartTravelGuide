@@ -31,5 +31,9 @@ Smart Travel Guide is a user-friendly web application developed as part of our m
 To provide a digital travel guide that supports tourists by offering reliable information about various destinations across Andhra Pradesh, enhancing their travel experience.
 
 ---
+## 🎥 Demo Video
+
+Watch the project in action here:  
+[📽️ Smart Travel Guide – Project Demo](https://drive.google.com/file/d/1qX4N2oMsRdDIFWP43AfVZgtQg5JszuTI/view?usp=sharing)
 
 Feel free to explore the project, give feedback, or contribute!
