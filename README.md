@@ -12,9 +12,11 @@ Smart Travel Guide is a user-friendly web application developed as part of our m
 
 ## 🛠️ Technologies Used
 
-- **HTML** – For page structure and content
-- **CSS** – For styling and design
-- **JavaScript** – For interactivity and functionality
+- **HTML** – Webpage structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Interactivity and DOM handling  
+- **XAMPP** – Local server setup (Apache + MySQL)  
+- **MySQL** – Database to store tourist place details  
 
 ## 👥 Team Members
 
